@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import unittest
-import responses
 
 import sys
 sys.path.append('../')

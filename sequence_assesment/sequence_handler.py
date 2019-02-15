@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import numpy as np
-import pprint
 
 def find_subsequence_sum_max(sequence, max_n_subseq=None):
 	
